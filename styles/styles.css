@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
 }
 
 body {
@@ -19,13 +19,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 60px;
     padding: 20px 60px;
 }
 
 .container nav a {
     text-decoration: none;
     color: #AAA;
+    font-size: 14pt;
     margin-right: 20px;
 }
 
@@ -50,6 +50,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+
+.main-container {
+    margin-left: 60px;
+    width: 60%;
 }
 
 .description {
@@ -85,3 +90,12 @@ body {
     background-color: #ac0b13;
 }
 
+.carousel-movies {
+    margin-top: 10px;
+}
+
+.box-movie {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
