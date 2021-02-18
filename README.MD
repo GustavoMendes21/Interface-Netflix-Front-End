@@ -3,3 +3,6 @@ Interface da Netflix recriada utilizando, com o objetivo de aprender e revisar c
 
 Projeto criado no Bootcamp da [Digital Innovation](https://digitalinnovation.one/sign-in), com o professor [Felipe Silva Aguiar ](https://www.linkedin.com/in/felipe-aguiar-047/)
 
+## Resultado
+![resultado](https://github.com/GustavoMendes21/Interface-Netflix-Front-End/blob/main/assets/result.png)
+
